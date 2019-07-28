@@ -1,0 +1,10 @@
+name: HealUI
+version: 1.0
+main: Heal\Main
+author: Misael38
+website: https://github.com/misael38
+api: 3.0.0
+
+commands: 
+  heal:
+   description: Heal Main Command
