@@ -13,7 +13,7 @@
  - [x] Title when Healing
 
 # How To Setup?
-1. Download the latest plugin's phar [in here](poggit.pmmp.io/ci/misael38/HealUI/HealUI).
+1. Download the latest plugin's phar [in here](poggit.pmmp.io/ci/misael38/HealUI).
 2. Drop the plugin's phar into the /plugins folder in your server
 3. Restart your server so that the plugin will be enabled!
  
