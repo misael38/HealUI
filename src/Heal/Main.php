@@ -44,7 +44,7 @@ class Main extends PluginBase implements Listener {
             switch($result){
                 case 0:
             $sender->setHealth(20);
-            $sender->addTitle("Healed", "Your HP is Full")
+            $sender->addTitle("Healed", "Your HP is Full");
             $sender->sendMessage("§aYou have been healed!");
                 break;
                     
